@@ -6,7 +6,7 @@
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/ashald/platformio-epdiy-monochrome"
+        "url": "https://github.com/daernsinstantfortress/platformio-epdiy-monochrome"
     },
     "authors":
     [
@@ -18,7 +18,7 @@
         }
     ],
     "license": "Unlicense",
-    "homepage": "https://github.com/ashald/platformio-epdiy-monochrome",
+    "homepage": "https://github.com/daernsinstantfortress/platformio-epdiy-monochrome",
     "dependencies":
     [
         {
