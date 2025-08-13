@@ -1,6 +1,6 @@
 #pragma once
 
-#include "epdiy.h"
+#include "epd_driver.h"
 
 #define EINK_HEIGHT      EPD_HEIGHT             // pixels
 #define EINK_WIDTH       EPD_WIDTH              // pixels
