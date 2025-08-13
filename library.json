@@ -23,7 +23,7 @@
     [
         {
             "name": "epdiy",
-            "version": "https://github.com/vroland/epdiy.git"
+            "version": "https://github.com/vroland/epdiy.git#221f068d781ef0e6df7db3cd7cf9bca4b83233e9"
         }
     ],
     "frameworks": "*",
